@@ -2,3 +2,6 @@
 
 type in command line ./badfish
 
+this is only for educational purposes.
+
+
